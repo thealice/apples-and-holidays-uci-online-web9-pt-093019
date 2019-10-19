@@ -60,14 +60,14 @@ end
   # etc.
 #   holiday_hash.each do |season, holiday|
 #     puts "#{season.capitalize}:"
-# 
+#
 #       holiday.each do |holiday, supply|
 #         new_holiday = []
 #         new_holiday << holiday.split
 #         new_holiday.each.do |new|
 #         holiday.split
 #         puts "  #{split_holiday.capitalize}: #{supply.join(", ")}"
-# 
+#
 #       end
 #       end
 #     end
